@@ -1,0 +1,37 @@
+[
+    {
+      "order_id":1,
+      "name":"Priya",
+      "email":"priya@gmail.com",
+      "address":"home 64",
+      "phone":6789042347,
+      "cost":20000,
+      "status":"Pending",
+      "category_id":1,
+      "product_name":"Curio Acacia Bookshelf"
+      
+    },
+    {
+      "order_id":2,
+      "name":"Jiya",
+      "email":"jiya@gmail.com",
+      "address":"home 74",
+      "phone":6788882347,
+      "cost":40000,
+      "status":"Pending",
+      "category_id":1,
+      "product_name":"Domino Counter Bar Stool"
+    },
+    {
+        "order_id":3,
+        "name":"Nisha",
+        "email":"nisha@gmail.com",
+        "address":"home 23",
+        "phone":7288882347,
+        "cost":45000,
+        "status":"Pending",
+        "category_id":2,
+        "product_name":"Bambo Wood Bed"
+
+      }
+]

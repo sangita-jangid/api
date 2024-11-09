@@ -1,0 +1,23 @@
+[
+    {
+        "location_id":1,
+        "location_name":"Ashok vihar plotno 23, Delhi",
+        "state_id":1,
+        "state":"Delhi",
+        "country_name":"India"
+    },
+    {
+        "location_id":2,
+        "location_name":"Hinjewadi plotno 21, Pune",
+        "state_id":2,
+        "state":"Maharashtra",
+        "country_name":"India"
+    },
+    {
+        "location_id":3,
+        "location_name":"Aasiana plotno 28, Indore",
+        "state_id":3,
+        "state":"Madhya Pradesh",
+        "country_name":"India"
+    }
+]

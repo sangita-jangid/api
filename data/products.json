@@ -1,0 +1,404 @@
+[
+    {
+        "p_id":1,
+        "category_id":1,
+        "productname":"Domino Counter Bar Stool",
+        "prize":24000,
+        "width":17,
+        "height":37,
+        "dimension":20,
+        "material":"Mango Wood",
+        "finish":"Ocean Blue",
+        "sku":"CR-BT-578",
+        "description":"A contemporary reinvention of a popular mid-century design, the Domino Stool hosts vibrant ash wood and curved contours for an eye-catching dining room addition.ash wood frame, woven cane seatback, vibrant color options",
+        "image":"https://i.ibb.co/HNGGgLC/blueimg7.webp"
+        
+    },
+    {
+        "p_id":2,
+        "category_id":1,
+        "productname":"Curio Acacia Bookshelf",
+        "prize":49500,
+        "width":48,
+        "height":60,
+        "dimension":20,
+        "material":"Acacia Wood",
+        "finish":"Z Black Stain",
+        "sku":"CR-BS-313",
+        "description":"The Spencer oak cabinet turns heads with three shelves, each with its own set of doors, creating the illusion of stacked boxes. Its statement-making top stands on an airy, black metal base.",
+        "image":"https://i.ibb.co/HT2Phcv/corbeil1.webp"
+        
+
+    },
+    {
+        "p_id":3,
+        "category_id":2,
+        "productname":"Bambo Wood Bed",
+        "prize":44600,
+        "width":76,
+        "height":43,
+        "dimension":85,
+        "material":"Mango Wood And Iron Frame",
+        "finish":"Natural Stain",
+        "sku":"CR-BD-697",
+        "description":"Let nature take the lead in crafting this elegantly simple bed, celebrating the lush hues and intricate patterns of mango wood. Each piece uniquely showcases its own blend of textures and shades, adding character to your bedroom sanctuary.Discover the perfect harmony of style and sustainability with our eco-friendly bamboo tableware collection. Crafted from renewable bamboo fibers, each piece boasts exquisite design and durability, making every meal an eco-conscious delight.Dive into coastal elegance with our seashell-inspired home decor collection. From delicate shell motifs to soothing ocean hues, bring the serenity of the seaside into your space and let your home evoke the tranquil beauty of coastal living.",
+        "image":"https://i.ibb.co/Z1HFMXy/bombobed1.webp"
+       
+
+    },
+    {
+        "p_id":4,
+        "category_id":2,
+        "productname":"Mango Wood & Brass Dressing Table",
+        "prize":50009,
+        "width":40,
+        "height":43,
+        "dimension":70,
+        "material":"Mango Wood",
+        "finish":"Wood Sandblasted Grey",
+        "sku":"CR-DT-353",
+        "description":"It’s cleverly characterised by its mid-century style, brassy upstand (framing all your beauty essentials), a tiny brassy handle and wholesome, tapered legs.You’ll be reapplying your make up just to get more face time with this grey washed mango wood dressing table of your dreams.",
+        "image":"https://i.ibb.co/rk1bNnX/mangodrestbl1.webp"
+        
+
+    },
+    {
+        "p_id":5,
+        "category_id":3,
+        "productname":"Bois Oval Teak Table Set",
+        "prize":137100,
+        "width":72,
+        "height":31,
+        "dimension":31,
+        "material":"Teak Wood And Cane Work",
+        "finish":"Wood Stained",
+        "sku":"CR-DT-219",
+        "description":"The furniture is one more example of the personality and style of the home, that is why we present our Randall Teak Wood Oval Dining Table Set and 4 seater  Dining Chairs with Armrests as a set that combines functionality and character. Both the table and the chairs are made of teak wood. The table has a rounded finish, making the top an oval surface, very different from what we are used to seeing. This large piece is perfect as a dining or living room table and will be the undisputed protagonist in the decoration of the room where you decide to place it. The accompanying chairs stand out for their originality and comfort, their ergonomics allow you to enjoy long after-dinner conversations without sacrificing design.",
+        "image":"https://i.ibb.co/6gRgfcT/ovalteaktblset1.webp"
+       
+
+    },
+    {
+        "p_id":6,
+        "category_id":3,
+        "productname":"Bali Rattan Sideboard",
+        "prize":58000,
+        "width":66,
+        "height":35,
+        "dimension":20,
+        "material":"Solid Mango Wood",
+        "finish":"Natural Cane Work",
+        "sku":"CR-SB-007",
+        "description":"Finely sanded finish, this high grade sustainable 100% natural mango wood sideboard is solid and unique in structure with curved ends.It has been sanded so smooth and fine and maintains a “raw” look thanks to the white wash finish.It has doors that open on push hinges and adjustable shelving. No handles are required as the push magnetic locks hold the doors in place. To open, simply push on the door and it pop open with ease. Add a touch of Balinese mood with the Curve sideboard crafted in solid mango wood and natural rattan webbing. The rounded sides add softness and allow for ample storage using 4 fully opening doors and internal shelving.",
+        "image":"https://i.ibb.co/B2wHW5k/balisidebord1.webp"
+        
+
+    },
+    {
+        "p_id":7,
+        "category_id":4,
+        "productname":"Adams Loveseat Sofa",
+        "prize":52000,
+        "width":70,
+        "height":33,
+        "dimension":33,
+        "material":"Plywood",
+        "finish":"Customization",
+        "sku":"CR-SF-369",
+        "description":"Leg Frame: Powder Coated Metal,Frame: LVL & Plywood,Filling: Foam, Fiber and Pocket Spring Filled Seat; Fiber Filled Back,Suspension: Sinuous Spring ,Fabric Composition:70% Polyester, 30% Acrylic",
+        "image":"https://i.ibb.co/3vZQdtt/adamsofa1.webp"
+        
+
+    },
+    {
+        "p_id":8,
+        "category_id":4,
+        "productname":"Adler Oil Leather Sofa",
+        "prize":56000,
+        "width":70,
+        "height":33,
+        "dimension":33,
+        "material":"Plywood And Leather",
+        "finish":"Customization",
+        "sku":" CR-SF-363",
+        "description":"Rustic and contemporary. The Adler Sofa provides a space with complete poise and sophistication.Blind tufting on bench seat cushion Loose back cushions",
+         "image":"https://i.ibb.co/k2KwkyR/adlersofa1.webp"
+         
+
+    },
+    
+    {
+        "p_id":9,
+        "category_id":5,
+        "productname":"Britt Desk Chair",
+        "prize":22000,
+        "width":21,
+        "height":42,
+        "dimension":21,
+        "material":"Seesham  Wood",
+        "finish":"Black Gloss",
+        "sku":"CR-OC-524",
+        "description":"Mixed materials refresh a retro style. Solid Seeeham Wood is finished in a rich ebony to frame a textural inlay of natural cane. High-performance seating, an iron base with casters, plus height adjustability ensure efficiency – and style – in the modern office.Curved back Cane panel detail Knife edge cushion Five star iron base Height adjustable Casters",
+         "image":"https://i.ibb.co/CB41GgH/britchair1.webp"
+         
+
+    },
+    {
+        "p_id":10,
+        "category_id":5,
+        "productname":"Lauro Desk",
+        "prize":39800,
+        "width":54,
+        "height":31,
+        "dimension":24,
+        "material":"Mango Wood",
+        "finish":"Antique Black",
+        "sku":"CR-DK-500",
+        "description":"The Lauro Desk is a stylish and functional piece of furniture that is perfect for a home office or study. It features a sleek and modern design with clean lines and a minimalist aesthetic that can fit in with a variety of decor styles. The desk is made from high-quality materials, such as solid wood and metal, which ensures that it is both durable and long-lasting. It has a spacious tabletop that provides ample space for a computer, books, and other office supplies. The desk also features a built-in drawer that provides convenient storage for small items, such as pens, notepads, and other office accessories.One of the standout features of the Lauro Desk is its attention to detail. It has a unique design with a curved wooden top and metal legs that add a touch of elegance and sophistication to the overall look of the desk. The desk also has a smooth finish that is comfortable to work on and easy to clean.",
+         "image":"https://i.ibb.co/3r7pGsK/lurotbl1.webp"
+         
+
+    },
+    {
+        "p_id":11,
+        "category_id":5,
+        "productname":"Clary Mango Desk",
+        "prize":42000,
+        "width":58,
+        "height":30,
+        "dimension":22,
+        "material":"Mango wood and Cane",
+        "finish":"Brown",
+        "sku":"CR-DK-144",
+        "description":"Bring a piece of the Mediterranean into the office space with the medium brown Grier Office Desk. This desk will bring the personality of the coast into a contemporary room. The Grier is hewn from solid mango wood for strength and durability and finished with five drawers whose façades feature a cane front.Other notable features include dainty, brushed gold grips, subtly chunky legs, and a beautiful, polished grain on the wood.",
+         "image":"https://i.ibb.co/NV90JH0/clarydsk1.webp"
+         
+
+    },
+    {
+        "p_id":12,
+        "category_id":5,
+        "productname":"Antonia Armless Desk Chair",
+        "prize":22000,
+        "width":22,
+        "height":36,
+        "dimension":25,
+        "material":"Mango wood",
+        "finish":"Z Black Matt Finish",
+        "sku":"CR-OC-523",
+        "description":"Mixed materials refresh retro styling. Ebony-brushed nettlewood frames a textural inlay of natural cane for great contrast, while high-performance fabric, adjustable seating and casters bring sensibility to the modern office.",
+         "image":"https://i.ibb.co/gJgJJLT/antoniachair1.webp"
+         
+
+    },
+    {
+        "p_id":13,
+        "category_id":5,
+        "productname":"Pottery Barn Smoky Grey Writing Desk",
+        "prize":27000,
+        "width":35,
+        "height":30,
+        "dimension":24,
+        "material":"Mango wood",
+        "finish":"Sandblast Wood Stained in light Brown",
+        "sku":"CR-DK-160",
+        "description":"A sandblast finish on a mango wood desk refers to a surface treatment that involves using a high-pressure stream of sand to roughen the surface of the wood. The result is a textured, matte finish that highlights the natural grain and character of the wood.A sandblast finish can give a mango wood desk a rustic or industrial look, depending on the design of the desk and the other materials used in its construction. It can also help to make the desk more resistant to wear and tear, as the textured surface is less likely to show scratches and other damage.When shopping for a sandblast finish mango wood desk, be sure to check the quality of the wood and the construction of the desk. Look for solid wood construction and sturdy joints to ensure that your desk will last for many years. You may also want to consider the size and style of the desk, as well as any additional features such as drawers or storage compartments.Some popular retailers that offer sandblast finish mango wood desks include West Elm, Pottery Barn, and Crate & Barrel. You can also search for independent furniture makers who specialize in mango wood furniture for a more unique and personalized option.",
+         "image":"https://i.ibb.co/GJ9K2bb/potterydsk1.webp"
+         
+
+    },
+    {
+        "p_id":14,
+        "category_id":4,
+        "productname":"Brooklyn Leather Sofa",
+        "prize":36000,
+        "width":80,
+        "height":28.50,
+        "dimension":33.50,
+        "material":"Solid Wood And Iron Frame",
+        "finish":"Light Brown ",
+        "sku":"CR-S-719",
+        "description":"Certainly! Here are additional lines for the furniture description:Embrace a timeless yet contemporary aesthetic with this revamped mid-century modern design, perfectly suited for today’s trendsetting spaces. ⏳🌟💼Sink into luxury with the plush, buttery feel of top-grain leather, available in a sophisticated palette of camel, chocolate, or jet black. 🛋️🍫🖤The weathered oak legs provide a sturdy foundation while adding a rustic charm, allowing the leather to take center stage in style. 🌳🏠💫Whether lounging with a good book or entertaining guests, this furniture piece effortlessly combines comfort and sophistication for an elevated living experience. 📚🥂💖Elevate your home decor with this fusion of classic elegance and modern flair, making a statement in any room with its understated yet striking presence. 🏡✨👌",
+         "image":"https://i.ibb.co/JyFTvXz/broklynsofa1.webp"
+         
+
+    },
+    {
+        "p_id":15,
+        "category_id":4,
+        "productname":"Sydney Cane Sofa",
+        "prize":54800,
+        "width":70,
+        "height":32,
+        "dimension":33,
+        "material":"Acacia Wood",
+        "finish":"Bleach Oil With Wooden Stain Finish",
+        "sku":"CR-SF-361",
+        "description":"Inspired by the soft furnishings of Soho House Barcelona, the Sydney wrap-around sofa is constructed with a solid-Acacia frame and sandblasted finish. The washed-linen textile is offset by caning on the sides and back, and softened with removable seat and bolster cushions.",
+         "image":"https://i.ibb.co/71cwvXS/sydneysofa1.webp"
+        
+
+    },
+    {
+        "p_id":16,
+        "category_id":4,
+        "productname":"Luciana Three Seater Sofa",
+        "prize":47000,
+        "width":70,
+        "height":32,
+        "dimension":33,
+        "material":"Pine Wood Frame And Cushion Work",
+        "finish":"Wooden Stain Finish",
+        "sku":"CR-SF-359",
+        "description":"The Luciana Three Seater Sofa is a type of sofa that features a classic design with elegant and sophisticated details. This sofa is typically made of high-quality materials such as solid wood and is available in different finishes to suit different interior design styles.The Luciana Three Seater Sofa is typically upholstered with luxurious and comfortable fabrics, such as velvet or linen, to provide a soft and cozy seating experience. The sofa usually features a classic panel backrest and armrests with elegant curves and details that give it a timeless look.This sofa can be used as a centerpiece in a living room or family room and is perfect for entertaining guests or relaxing with family. It provides ample seating space for three people, making it a great choice for larger households or those who frequently have guests.Overall, the Luciana Three Seater Sofa is a stylish and comfortable piece of furniture that can elevate the look of any room. Its classic design and attention to detail make it a standout piece that can provide both comfort and sophistication.",
+         "image":"https://i.ibb.co/T2N0LLd/lucianasofa1.webp"
+         
+
+    },
+    {
+        "p_id":17,
+        "category_id":3,
+        "productname":"Mindi Natural Rope Chair",
+        "prize":18000,
+        "width":21,
+        "height":42,
+        "dimension":21,
+        "material":"Acacia Wood And Natural Rope",
+        "finish":"Wood Stained In Marron And Sealed",
+        "sku":"CR-CH-585",
+        "description":"These iconic chairs dare to be original with this coveted walnut finish shade.Acacia wood chairs that we imagine very well around our dining room table, in the office or even in the bedroom for a revisited Scandinavian touch.These timeless and contemporary chairs designed in quality solid mindi will surprise your guests with their aesthetics, charisma and comfort provided by a Y-shaped backrest.The natural fiber rope brings softness to these chairs.Lovers of authenticity will be charmed by the 100% natural rendering and the contrast between the materials and the colors of the natural materials used.",
+         "image":"https://i.ibb.co/3T0t5WH/mindichair1.webp"
+         
+
+    },
+    {
+        "p_id":18,
+        "category_id":3,
+        "productname":"Haverhill Dining Chair",
+        "prize":18000,
+        "width":20,
+        "height":40,
+        "dimension":19,
+        "material":"Acacia Wood",
+        "finish":"Wood Stained in Dark brown",
+        "sku":"CR-DC-542",
+        "description":"Tapered spindles in gleaming neutrals are reminiscent of Danish modern design, complete with oatmeal linen upholstery and brass accents.Linen upholsteryLinen is a natural fiber, expect some variation in color throughout each unique piece Acacia frame; glossy lacquered walnut finish Webbed seat construction; foam and fiber fill Brass accents",
+         "image":"https://i.ibb.co/4S27NJJ/haverhillchair1.webp"
+         
+
+    },
+    {
+        "p_id":19,
+        "category_id":3,
+        "productname":"Handcarved Lombok Dining Chair",
+        "prize":18000,
+        "width":20,
+        "height":40,
+        "dimension":23,
+        "material":"Mango Wood",
+        "finish":"SandBlast Grey",
+        "sku":"CR-DC-543",
+        "description":"Handcarved from tropical hardwood, this dining chair is a true work of art. Filigree-inspired cutouts create an airy space where shadows and sunlight play, while acting as a serene accent piece around your dining table.",
+         "image":"https://i.ibb.co/1fvGPJL/handcarvedch1.webp"
+         
+
+    },
+    {
+        "p_id":20,
+        "category_id":2,
+        "productname":"Livingston Armoire",
+        "prize":54000,
+        "width":40,
+        "height":72,
+        "dimension":20,
+        "material":"Mango Wood",
+        "finish":"Sandblast Smoke Grey",
+        "sku":"CR-AM-327",
+        "description":"Expertly crafted of solid Mango wood,  veneers. Crafted of Mango Wood, a tropical hardwood with a long, beautiful grain. All wood is kiln-dried, a process that ensures that the furniture will never split, warp, crack or mildew. The use of veneers results in high-quality furniture that has flawless surfaces and consistent color tones that will not be subject to cracking. Drawers feature English dovetail joinery and waxed wooden glides, which ensure smooth motion. Sturdy half-moon safety stops keep drawers securely in place. Finish is hand applied and distressed in a gray wash. Armoire features one clothing rod, one adjustable shelf, two roomy drawers and two cord cut-outs for cord management. Doors feature magnetic latches. Adjustable levelers provide stability on uneven surfaces. Anti-tip kit included: comes with safety-tested mounting hardware, instructions and a nylon strap. To prevent injuries from furniture tip-over, this item should be permanently fixed to the wall",
+        "image":"https://i.ibb.co/WFfQMvk/livingston1.webp"
+        
+
+    },
+    {
+        "p_id":21,
+        "category_id":2,
+        "productname":"Lombok Hand Carved Wardrobe",
+        "prize":52000,
+        "width":40,
+        "height":78,
+        "dimension":20,
+        "material":"Mango Wood",
+        "finish":"White Distressed Finish",
+        "sku":"CR-TK-121",
+        "description":"The Lombok Hand Carved Wooden Armoire is a type of wardrobe that features intricate hand-carved designs on its wooden surface. It is typically made of high-quality hardwood, such as teak or mango wood, and is designed to provide both functional storage and decorative appeal.The Lombok Hand Carved Wooden Armoire is characterized by its beautifully crafted designs, which often feature intricate patterns and motifs inspired by Indonesian art and culture. The armoire may also feature decorative hardware, such as brass or iron handles, to enhance its visual appeal.The armoire is available in different sizes to suit different storage needs and may include shelves, drawers, and hanging space to maximize its functionality. Its solid wood construction ensures that it is sturdy and durable enough to withstand daily use.This armoire is a popular choice for bedrooms, living rooms, and other spaces where additional storage is needed. It provides a beautiful and unique storage solution while also serving as a statement piece that can enhance the overall aesthetic of a room.Overall, the Lombok Hand Carved Wooden Armoire is a stunning and functional piece of furniture that is sure to impress. Its intricate carvings and solid wood construction make it a timeless piece that can be passed down through generations.",
+        "image":"https://i.ibb.co/GsJVPGK/lombok1.webp"
+        
+
+    },
+    {
+        "p_id":22,
+        "category_id":2,
+        "productname":"Fort Accacia Bed Side",
+        "prize":19500,
+        "width":28,
+        "height":27,
+        "dimension":16,
+        "material":"Acacia Wood",
+        "finish":"SandBlast wood stained in dark brown",
+        "sku":"CR-BT-315",
+        "description":"Nightstand features 1 spacious drawer and 1 large open cubby. Expertly crafted from solid Mango wood, MDF Drawer pulls made of steel.Hand-finished and distressed in water-based Smoked Nutmeg.Hardware is finished in stained antique finish.MDF is an engineered wood that lends exceptional strength and ensures the product’s structural integrity over time.Kiln-dried wood helps prevent warping, splitting, cracking and developing mildew.",
+        "image":"https://i.ibb.co/p2KM45y/fortside1.webp"
+        
+
+    },
+    {
+        "p_id":23,
+        "category_id":1,
+        "productname":"Auburn Bar Cabinet",
+        "prize":42000,
+        "width":40,
+        "height":52,
+        "dimension":20,
+        "material":"Mango Wood",
+        "finish":"Mango Wood Sandblasted Grey",
+        "sku":"CR-BC-622",
+        "description":"With a belief that there is no end to what furniture can do for a space and a profound curiosity and love for creative experimentation from all corners of the world, we are sure to have the unique piece you are looking for. Since its founding they have explored the globe for inspiration to shape their products and create refined, classic, yet innovative furniture, that can be enjoyed for years to come.Enjoy the Trey Bar Cabinet – Auburn Poplar in your home today!",
+        "image":"https://i.ibb.co/xfdkC4Z/auburn1.webp"
+        
+
+    },
+    {
+        "p_id":24,
+        "category_id":1,
+        "productname":"Alexa Marble Console Table",
+        "prize":42000,
+        "width":48,
+        "height":31,
+        "dimension":21,
+        "material":"Solid Wood And Marble",
+        "finish":"Smoke Grey Glaze Finish",
+        "sku":"CR-CT-247",
+        "description":"A curved, half-moon top and turned-leg details combines marble and wood in the chicest way. Position the Alexandra Marble Demilune Console Table in an entryway, bedroom or small living space to show off books, succulents and other collected wares.Base is crafted from kiln-dried mango, veneer and MDF with aluminum knobs.Top is natural white marble; polished and sealed for protection.",
+        "image":"https://i.ibb.co/4Tty74R/alexatbl1.webp"
+        
+
+    },
+    {
+        "p_id":25,
+        "category_id":1,
+        "productname":"Dura Carved Wooden Tv Cabinet",
+        "prize":42000,
+        "width":54,
+        "height":30,
+        "dimension":16,
+        "material":"Mango Wood",
+        "finish":"White Distressed",
+        "sku":"CR-BT-248",
+        "description":"Wooden TV units are pieces of furniture designed to hold and display televisions.They are typically made of wood, although other materials such as metal or glass may also be used. Wooden TV units come in a variety of styles, from traditional to modern, and can be used to complement the decor of a room. They typically feature shelves, drawers, or cabinets for storing media components such as cable boxes, DVD players, and video game consoles. Wooden TV units also serve as a focal point in a living room or entertainment space, providing a platform for the TV and enhancing the overall aesthetics of the room.Durability: Wooden TV units are durable and long-lasting. They are sturdy and can withstand wear and tear, making them a reliable choice for a TV stand.Aesthetics: Wooden TV units add a touch of elegance and sophistication to any room. They come in a variety of wood finishes, textures, and colors, allowing you to choose the perfect unit to complement your decor.Versatility: Wooden TV units are versatile and can be used in any room of the house. They are not just limited to holding a television, but can also be used for storing other items like books, games, or decorative items.Storage: Wooden TV units offer ample storage space for media components like cable boxes, DVD players, and video game consoles. They often come with shelves, drawers, or cabinets that make organizing your entertainment essentials easy.Functionality: Wooden TV units are functional and provide a stable base for your television. They can also help keep cables and wires organized and hidden, making your space look neater.Easy to Clean: Wooden TV units are easy to clean and maintain. You can simply wipe them down with a damp cloth to keep them looking clean and new.",
+        "image":"https://i.ibb.co/Pr4dJZ0/duratv1.webp"
+        
+
+    }
+
+
+]

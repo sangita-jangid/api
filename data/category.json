@@ -1,0 +1,28 @@
+[
+    {
+        "c_id":1,
+        "category":"living room"
+    },
+    {
+        "c_id":2,
+        "category":"bedroom"
+    },
+    {
+        "c_id":3,
+        "category":"dining"
+    },
+    {
+        "c_id":4,
+        "category":"sofa"
+    },
+    {
+        "c_id":5,
+        "category":"office & work"
+    }
+]
+
+//cloud m database m database access m jate h tab user nd password yaha h
+//  user:sangita password:b1kpYS3ye0oztJNn
+//mongodb+srv://sangita:b1kpYS3ye0oztJNn@cluster0.2v3le.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+//https://github.com/sangita-jangid/data.git
+//mongod --config /usr/local/etc/mongod.conf --fork 
